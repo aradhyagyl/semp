@@ -1,0 +1,53 @@
+.carousel slide{
+    position: absolute;
+    left: 50%;
+}
+
+#carouselExampleSlidesOnly
+{
+    position: absolute;
+    
+    margin-left: 500px;
+}
+
+#Nav_Bar
+{
+    margin-top: 25px;
+}
+#button{
+    background-color: orange;
+}
+#button:hover{
+    background-color: darkorange;
+}
+
+.form-control
+{
+    width: 200px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+#search
+{
+    height: 37px;
+    margin-top: 10px;
+}
+.logo{
+    width: 250px;
+}
+
+.flex_top
+{
+    display: flex;
+}
+
+#heading
+{
+    margin-top: 70px;
+    margin-left: 200px;
+    font-family: PT Serif;
+    font-weight:bolder;
+     text-align: center;
+     text-shadow: 1px 1px 2px black;
+}
